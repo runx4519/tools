@@ -30,7 +30,7 @@ public class ConvertToLocalDate {
 			}
 			System.out.println(ld);
 		} catch (DateTimeException e) {
-			System.out.println("メッセージ追加");
+			System.out.println("メッセージ追加１２３");
 			System.out.println("日付変換エラー");
 		}
 	}
